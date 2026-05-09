@@ -4,7 +4,7 @@ Smarter Marketing. Faster Growth. Nexora Marketing is a performance-focused digi
 
 ## 📸 Preview
 
-![Nexora Marketing Full Page Preview](./public/screenshots/Nexora.png)
+![Nexora Marketing Full Page Preview](/screenshots/Nexora.png)
 
 
 ## ✨ Features
